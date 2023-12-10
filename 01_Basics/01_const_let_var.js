@@ -1,3 +1,5 @@
+"use strict"; // treat all js code as newer version
+
 const userId = 1
 let userEmail = "elvishraj9066@gmail.com"
 var userPass = "12345"
