@@ -1,4 +1,4 @@
-
+"use strict"; // treat all js code as newer version
 let name = "Raj"
 let age = 20
 let userLogin = false;
