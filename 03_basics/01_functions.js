@@ -69,3 +69,12 @@ handelobject2({
     username2 : "raju",
     age : 21
 })
+
+// for arrays 
+
+const myArray = [30,32,40,34]
+function handelArrays(someArrays){
+    return someArrays[1]
+}
+
+console.log(handelArrays(myArray));
